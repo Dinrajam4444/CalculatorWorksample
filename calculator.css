@@ -1,3 +1,6 @@
+body{
+    overflow-X: hidden
+}
 @media(max-width:1200px){
     #id1{
         width:600px;
@@ -14,7 +17,7 @@
 }
 @media(max-width:600px){
     #id1{
-        width:300px;
+        width:280px;
         height: 300px;
     }
 }
