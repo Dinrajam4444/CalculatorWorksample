@@ -3,7 +3,7 @@ body{
 }
 @media(max-width:1200px){
     #id1{
-        width:600px;
+        width:100%;
         height: 600px;
         
     }
