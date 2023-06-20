@@ -10,3 +10,14 @@ function displayData(n){
     function backSpace(){
         result.value=result.value.slice(0,-1)
     }
+
+
+   // eval(stringTypeOperation)
+
+
+   // s= "hello"
+   
+   // "hello"
+
+   // s.slice(0,-1)
+   // "hell"

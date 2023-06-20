@@ -3,21 +3,27 @@ body{
 }
 @media(max-width:1200px){
     #id1{
-        width:100%;
+        width:60%;
         height: 600px;
         
     }
 }
 @media(max-width:900px){
     #id1{
-        width:600px;
+        width:60%;
         height: 600px;
         
     }
 }
 @media(max-width:600px){
     #id1{
-        width:280px;
+        width:60%;
+        height: 300px;
+    }
+}
+@media(max-width:400px){
+    #id1{
+        width:60%;
         height: 300px;
     }
 }
